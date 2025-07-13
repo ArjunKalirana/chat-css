@@ -2,7 +2,7 @@
 
 A beautiful and responsive chat UI concept, inspired by modern messaging apps. Built using HTML, CSS, and Font Awesome icons. This project is ideal for showcasing layout design, flexbox techniques, and responsive design using `clamp()` and `media queries`.
 
-![Chat UI Preview](design/Screenshot 2025-07-13 152029.png)
+![Chat UI Preview]([design/Screenshot 2025-07-13 152029.png](https://github.com/ArjunKalirana/chat-css/blob/5b5e2d0efe8872e43bb38caee3c8181476c561c2/design/Screenshot%202025-07-13%20152029.png))
 
 ---
 
